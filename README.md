@@ -21,7 +21,7 @@ Neovim
 Hyprland
 ```
 
-Learning, customizing, and building things step by step.
+Learning, customizing, and improving step by step.
 
 </div>
 
@@ -30,7 +30,7 @@ Learning, customizing, and building things step by step.
 ## 🚀 About Me
 
 - 🐍 Currently learning **Python**
-- 🪟 **Windows** is my main OS
+- 🪟 Using **Windows** as my main OS
 - 🐧 Exploring **EndeavourOS (Arch-based Linux)**
 - ⚡ Customizing **Hyprland**
 - ⌨️ Using **Neovim**
@@ -67,6 +67,8 @@ Python • Linux • AI • Security
 
 <div align="center">
 
-*"Still learning, still improving."*
+### 💭 Personal Philosophy
+
+> **"Looks good, but must be usable."**
 
 </div>
