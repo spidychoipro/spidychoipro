@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi there 👋
 
 ```bash
@@ -19,17 +21,23 @@ Neovim
 Hyprland
 ```
 
-I enjoy customizing my setup, learning new things, and improving my skills step by step.
+Learning, customizing, and building things step by step.
 
-## 🛠 Currently
+</div>
 
-- 🐍 Learning **Python**
-- 🪟 Using **Windows** as my main OS
+---
+
+## 🚀 About Me
+
+- 🐍 Currently learning **Python**
+- 🪟 **Windows** is my main OS
 - 🐧 Exploring **EndeavourOS (Arch-based Linux)**
 - ⚡ Customizing **Hyprland**
 - ⌨️ Using **Neovim**
 - 🛡️ Interested in **Cybersecurity**
 - 🤖 Interested in **AI**
+
+---
 
 ## 🎯 Current Goals
 
@@ -37,14 +45,28 @@ I enjoy customizing my setup, learning new things, and improving my skills step 
 - Learn more about **Linux & terminal workflow**
 - Explore **Cybersecurity** and **AI**
 - Build useful small projects
+- Improve problem-solving skills
+
+---
+
+## 🛠 Current Focus
+
+```txt
+Python • Linux • AI • Security
+```
+
+---
 
 ## 🔥 Fun Facts
 
-- I like customizing my setup
+- I enjoy customizing my setup
 - Learning by breaking things and fixing them
-- I use **Vim/Neovim** btw
+- I use Vim/Neovim btw
 
-```txt
-Current Focus:
-Python • Linux • AI • Security
-```
+---
+
+<div align="center">
+
+*"Still learning, still improving."*
+
+</div>
