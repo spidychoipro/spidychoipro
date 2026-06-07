@@ -6,38 +6,38 @@ spidychoipro
 
 $ interests
 Linux
-Hyprland
 Python
 Cybersecurity
 AI
 Neovim
-
-$ current_status
-Learning, breaking things, fixing things
+Hyprland
 ```
 
-## 🛠 Tech & Interests
+I like customizing my Linux setup, learning new things, and building skills step by step.
 
-- 🐍 Currently learning **Python**
-- 🐧 Daily driving **Linux**
+## 🛠 Currently
+
+- 🐍 Learning **Python**
+- 🐧 Using **Linux** daily
 - ⚡ Customizing **Hyprland**
 - ⌨️ Using **Neovim**
 - 🛡️ Interested in **Cybersecurity**
-- 🤖 Interested in **AI**
-- 💻 Exploring programming step by step
+- 🤖 Exploring **AI**
 
-## 🚀 Current Goals
+## 🎯 Current Goals
 
-- Improve Python skills
-- Learn more about Linux & terminal workflow
-- Explore cybersecurity & AI
-- Build useful small projects
-- Get better at problem solving
+- Get better at **Python**
+- Learn more about **Linux & terminal workflow**
+- Build small but useful projects
+- Improve problem-solving skills
 
-## 📌 Current Focus
+## 🔥 Fun Facts
+
+- I use **Vim/Neovim** btw
+- I enjoy customizing my setup
+- Learning by breaking things and fixing them
 
 ```txt
-Python > Linux > AI > Security > Building stuff
+Current Focus:
+Python • Linux • AI • Security
 ```
-
-> Still learning, still improving 🚀
