@@ -4,38 +4,45 @@
 $ whoami
 spidychoipro
 
+$ main_os
+Windows
+
+$ secondary_os
+EndeavourOS (Arch-based)
+
 $ interests
-Linux
 Python
+Linux
 Cybersecurity
 AI
 Neovim
 Hyprland
 ```
 
-I like customizing my Linux setup, learning new things, and building skills step by step.
+I enjoy customizing my setup, learning new things, and improving my skills step by step.
 
 ## 🛠 Currently
 
 - 🐍 Learning **Python**
-- 🐧 Using **Linux** daily
+- 🪟 Using **Windows** as my main OS
+- 🐧 Exploring **EndeavourOS (Arch-based Linux)**
 - ⚡ Customizing **Hyprland**
 - ⌨️ Using **Neovim**
 - 🛡️ Interested in **Cybersecurity**
-- 🤖 Exploring **AI**
+- 🤖 Interested in **AI**
 
 ## 🎯 Current Goals
 
-- Get better at **Python**
+- Improve my **Python** skills
 - Learn more about **Linux & terminal workflow**
-- Build small but useful projects
-- Improve problem-solving skills
+- Explore **Cybersecurity** and **AI**
+- Build useful small projects
 
 ## 🔥 Fun Facts
 
-- I use **Vim/Neovim** btw
-- I enjoy customizing my setup
+- I like customizing my setup
 - Learning by breaking things and fixing them
+- I use **Vim/Neovim** btw
 
 ```txt
 Current Focus:
