@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**spidychoipro/spidychoipro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+$ whoami
+spidychoipro
 
-Here are some ideas to get you started:
+$ interests
+Linux
+Hyprland
+Python
+Cybersecurity
+AI
+Neovim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ current_status
+Learning, breaking things, fixing things
+```
+
+## 🛠 Tech & Interests
+
+- 🐍 Currently learning **Python**
+- 🐧 Daily driving **Linux**
+- ⚡ Customizing **Hyprland**
+- ⌨️ Using **Neovim**
+- 🛡️ Interested in **Cybersecurity**
+- 🤖 Interested in **AI**
+- 💻 Exploring programming step by step
+
+## 🚀 Current Goals
+
+- Improve Python skills
+- Learn more about Linux & terminal workflow
+- Explore cybersecurity & AI
+- Build useful small projects
+- Get better at problem solving
+
+## 📌 Current Focus
+
+```txt
+Python > Linux > AI > Security > Building stuff
+```
+
+> Still learning, still improving 🚀
